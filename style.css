@@ -342,6 +342,10 @@ mark{
     padding: 3px !important;
   }
 }
+.dropdown-item{
+  font-size: 12px;
+  text-align: left;
+}
 .topic{
     letter-spacing: 1px;
   text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.12);
@@ -360,6 +364,9 @@ mark{
     background-color: #CCDAF5 !important;
     border-bottom-style: solid;
 }
+.art-nav-link:hover{
+    background-color: #CCDAF5 !important;
+}
 .investing-mark-top{
     padding-left: 0px !important;
     padding-right: 0px !important;
@@ -369,6 +376,9 @@ mark{
 .investing-mark-top:hover{
     background-color: #CCCDA2 !important;
     border-bottom-style: solid;
+}
+.investing-nav-link:hover{
+    background-color: #CCCDA2 !important;
 }
 .health-mark-top{
     padding-left: 0px !important;
@@ -380,6 +390,9 @@ mark{
     background-color: #CFFFD2 !important;
     border-bottom-style: solid;
 }
+.health-nav-link:hover{
+    background-color: #CFFFD2 !important;
+}
 .writing-mark-top{
     padding-left: 0px !important;
     padding-right: 0px !important;
@@ -389,6 +402,9 @@ mark{
 .writing-mark-top:hover{
     background-color: #FFE3AC !important;
     border-bottom-style: solid;
+}
+.writing-nav-link:hover{
+    background-color: #FFE3AC !important;
 }
 .programming-mark-top{
     padding-left: 0px !important;
@@ -400,6 +416,9 @@ mark{
     background-color: #C2F5E9 !important;
     border-bottom-style: solid;
 }
+.programming-nav-link:hover{
+    background-color: #C2F5E9 !important;
+}
 .podcast-mark-top{
     padding-left: 0px !important;
     padding-right: 0px !important;
@@ -409,6 +428,9 @@ mark{
 .podcast-mark-top:hover{
     background-color: #EA8594 !important;
     border-bottom-style: solid;
+}
+.podcast-nav-link:hover{
+    background-color: #EA8594 !important;
 }
 //.start:hover, .btn-more:hover{
   //cursor: default !important;
